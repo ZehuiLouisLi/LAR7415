@@ -206,7 +206,7 @@ for (i=0; i<layers.length; i++) {
         'mcguffey-park': {
             name: "Union Sqaure",
             description: "Union Square is a 2.6-acre public plaza bordered by Geary, Powell, Post and Stockton Streets in downtown San Francisco, California. Union Square also refers to the central shopping, hotel, and theater district that surrounds the plaza for several blocks. The area got its name because it was once used for Thomas Starr King rallies and support for the Union Army during the American Civil War, earning its designation as a CaliforniaHistorical Landmark.Today, this one-block plaza and surrounding area is one of the largest collections of department stores, upscale boutiques, gift shops, artgalleries, and beauty salons in the United States, making Union Square a major tourist destination and a vital, cosmopolitan gathering place in downtown San Francisco. Grand hotels and small inns, as well as repertory, off-Broadway, and single-act theaters also contribute to the area's dynamic, 24-hour character.",
-            imagepath: "img/Union Sqaure.jpg",
+            imagepath: "img/Union Square.jpg",
             bearing: 0,
             center: [ -122.406, 37.788],
             zoom: 17.96,
